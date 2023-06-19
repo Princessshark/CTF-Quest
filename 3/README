@@ -1,0 +1,18 @@
+#//*"Documentation Author Bipul Sharma"
+
+open terminal
+
+	la rwx
+
+	nano 
+
+		Indentation errors @
+
+			BACKSPACE	def str_xor(secret, key):
+			or TAB code following it
+	
+		After allinging the for proper indentation save
+		
+		run the file using python n.py
+		
+		copy the Entire flag   
