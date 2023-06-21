@@ -1,0 +1,31 @@
+#//*"Documentation Author Bipul Sharma"
+
+download both the file inside a directory
+	x == level.py
+	y ==level1.flag.txt.enc  (needs dcription as the task name suggest)
+	
+	open terminal
+		
+		la rwx
+		
+		cat level1.py
+
+		pthon level1.py
+
+			read error message
+		
+		Please enter correct password for flag:
+
+		cat level1.flag.txt.enc
+
+			hased output
+
+				ARr1w�Q	nVT_nPRVW
+				
+		cat review the file level1.py 
+				
+			1e1a
+
+		picoCTF{545h_r1ng1ng_fa343060}
+
+		

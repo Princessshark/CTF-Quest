@@ -1,0 +1,37 @@
+#//*"Documentation Author Bipul Sharma"
+
+open terminal 
+
+	Enter the "nc" command: 
+	Once you have the terminal open,
+	 type the following command: 
+
+	Create a python file
+	
+	man nc
+	
+	nc <hostname> <port>
+
+
+	Replace 
+	<hostname> with the hostname or IP address of the server you want to connect to, 
+	and 
+	<port> with the port number of the service you wish to access. 
+	
+
+
+	nc saturn.picoctf.net 50561
+	
+		
+	copy 
+	
+		'picoCTF{gl17ch_m3_n07_' + chr(0x39) + chr(0x63) + chr(0x34) + chr(0x32) + chr(0x61) + chr(0x34) + chr(0x35) + chr(0x64) + '}'			  
+
+	edit it to 
+
+		flag = 'picoCTF{gl17ch_m3_n07_' + chr(0x39) + chr(0x63) + chr(0x34) + chr(0x32) + chr(0x61) + chr(0x34) + chr(0x35) + chr(0x64) + '}'
+		print(flag)
+
+	save && exit 
+
+	run the python file

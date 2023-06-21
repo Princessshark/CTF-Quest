@@ -1,0 +1,16 @@
+#//*"Documentation Author Bipul Sharma" There is a timer running in the background
+
+open terminal
+
+	nc saturn.picoctf.net 49697
+
+
+	Please md5 hash the text between quotes, excluding the quotes: ''
+Answer: 
+
+		hello		
+
+
+	echo -n "hello" | md5sum
+
+	
