@@ -1,0 +1,20 @@
+#//*"Documentation Author Bipul Sharma"
+
+download both the file inside a directory
+	
+	open terminal
+	
+	la rwx		
+
+	cat level2.py
+
+	cat level2.flag.txt.enc 
+
+		Hashed FLag value == TY'1qM:X:]RW]J
+
+			TY'1qM:X:]RW]J == de76	
+
+		python level2.py
+
+		picoCTF{tr45h_51ng1ng_489dea9a}
+

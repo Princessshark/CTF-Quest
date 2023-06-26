@@ -1,0 +1,37 @@
+#//*"Documentation Author Bipul Sharma"
+
+Download all the file inside a directory
+
+la rwx 
+
+		password hash == d��^@6���v�Áī�R
+		
+		Enc FLag value ==
+		
+
+  nano level4.py
+
+	edit the function 
+
+		def_level_4_pw_check():
+			user_pw = input("Please enter correct password for flag: ")
+
+	to
+
+		def_level_4_pw_check(user_pw):
+			#user_pw = input("Please enter correct password for flag: ")
+						
+			
+		 and LOOP the ARRAY  pos_pw_list
+
+
+		 Python being an interprated language the CHECKER is to be moved after the array
+
+		EXAMPLE
+		
+			 pos_pw_list = ["8c86", "7692", "a519", "3e61", "7dd6", "8919", "aaea", "f34b", "d9a2", "39f7", "626b", "dc78", "2a98", "7a85", "cd15", "80fa", "8571", "2f8a", "2ca6", "7e6b", "9c52", "7423", "a42c", "7da0", "95ab", "7de8", "6537", "ba1e", "4fd4", "20a0", "8a28", "2801", "2c9a", "4eb1", "22a5", "c07b", "1f39", "72bd", "97e9", "affc", "4e41", "d039", "5d30", "d13f", "c264", "c8be", "2221", "37ea", "ca5f", "fa6b", "5ada", "607a", "e469", "5681", ".",".","."]
+
+			for ps in pos_pw_list:			
+				level_4_pw_check(ps)
+
+				save and RUN

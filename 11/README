@@ -1,0 +1,41 @@
+#//*"Documentation Author Bipul Sharma"
+
+Download all the file inside a directory
+
+la rwx
+
+python level5.py
+
+def level_5_pw_check():
+   user_pw = input("Please enter correct password for flag: ")  
+
+#TO
+
+def level_5_pw_check(user_pw):
+   # user_pw = input("Please enter correct password for flag: ")  
+
+
+
+&&
+
+
+print("That password is incorrect") 
+
+#TO
+
+#print("That password is incorrect") 
+
+
+&&
+
+
+#To import the possible passwords from file:
+dictionary.txt
+
+
+#Add this before the pw_checker
+with open("/home/username/absolutepath/filename") as dicitonary:
+	lines = dictionary.readlines()
+    for line in lines:
+    	line = line.strip() 
+		level_5_pw_check(line)
