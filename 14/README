@@ -1,0 +1,24 @@
+#//*"Documentation Author Bipul Sharma"
+
+Download all the file inside a directory || wget
+
+la rwx
+
+-e == encrypt
+-d == decrypt
+
+cat pw.txt
+
+	copy
+	
+	aa821c16aa821c16aa821c16aa821c16 
+
+
+python ende.py -d flag.txt.en
+
+
+
+Please enter the password:
+
+	paste
+		aa821c16aa821c16aa821c16aa821c16

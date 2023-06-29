@@ -1,0 +1,25 @@
+#//*"Documentation Author Bipul Sharma"
+
+Download the file inside a directory
+
+la rwx
+
+python n.py
+
+edit the file 
+
+
+from
+
+if __name__ == "__main__":
+	main()
+
+To
+
+
+
+if __name__ == "__main__":
+	#main()
+    print_flag()
+    
+    

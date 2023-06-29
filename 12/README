@@ -1,0 +1,9 @@
+#//*"Documentation Author Bipul Sharma"
+
+Download the file inside a directory
+
+la rwx
+
+python runme.py || cat runme.py || nano runme.py || vim runme.py
+
+copy && Paste thr flag

@@ -1,0 +1,10 @@
+#//*"Documentation Author Bipul Sharma"
+
+Download the file inside a directory
+
+la rwx
+
+./warm -h 
+
+	picoCTF{b1scu1ts_4nd_gr4vy_755f3544}
+
