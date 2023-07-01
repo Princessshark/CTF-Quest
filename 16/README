@@ -1,0 +1,79 @@
+#//*"Documentation Author Bipul Sharma"
+
+creat 2 files  a.txt  &&  b.py
+
+#copy from the picoCTF website && paste in the terminal
+
+nc mercury.picoctf.net 43239
+
+#run
+ 
+112
+105
+99 
+111 
+67 
+84 
+70 
+123 
+103 
+48 
+48 
+100 
+95 
+107 
+49 
+116 
+116 
+121 
+33 
+95 
+110 
+49 
+99 
+51 
+95 
+107 
+49 
+116 
+116 
+121 
+33 
+95 
+55 
+99 
+48 
+56 
+50 
+49 
+102 
+53 
+125 
+10 
+
+
+	copy
+
+
+#paste in a.txt
+
+
+nano b.py
+
+
+	ascii_string = ""
+	with open('a.txt', 'r') as file:
+	    for line in file:
+	        integer = int(line.strip())
+	        character = chr(integer)
+	        ascii_string += character
+
+	print("ASCII string:", ascii_string)
+
+
+save && Exit
+
+
+python b.py
+
+

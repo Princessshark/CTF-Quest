@@ -1,0 +1,42 @@
+#//*"Documentation Author Bipul Sharma"
+#Magikarp Ground Mission provides you a SSH connection for a SERVER with ubuntu OS
+
+Terminal
+
+	ssh ctf-player@venus.picoctf.net -p 60530
+
+	WARNING!
+	
+	Verify this fingerprint to AVOID MAN in THE MIDDLE
+	
+		ECDSA key fingerprint is 
+
+		SHA256:NrQkIxNEQQho/GA7jE0WlIa7Jh4VF9sAvC5awkbuj1Q
+
+	Type The PASSWORD from the challange
+
+		ls
+
+		cat 1 "Tab"
+
+			picoCTF{xxsh_
+
+		cat instructions "Tab"
+
+
+		cd /
+
+		cat 2 "Tab"
+			
+			0ut_0f_\/\/4t3r_
+
+		cd
+
+		cat 3 "Tab"
+
+			5190b070}
+
+exit
+		
+			picoCTF{xxsh_0ut_0f_\/\/4t3r_5190b070}
+		

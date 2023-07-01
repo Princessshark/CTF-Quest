@@ -1,0 +1,32 @@
+#//*"Documentation Author Bipul Sharma"
+
+Download all the file inside a directory
+
+Terminal
+
+	la rwx
+		ltdis.sh
+
+	file static
+		chmod 700 static
+
+	
+	./ltdis.sh static
+
+
+	nano static.ltdis.x86_64.txt  (Binary code)
+
+
+	nano static.ltdis.string.txt
+
+
+		picoCTF{d15a5m_t34s3r_1e6a7731}
+
+
+
+
+
+
+
+
+	
